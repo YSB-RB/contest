@@ -11,6 +11,9 @@ export default function Home() {
           <h1 className="text-3xl font-bold text-center">
             This is the home page of Contest App
           </h1>
+          <h1 className="text-3xl font-bold text-center">
+            This is the home page of Contest App
+          </h1>
         </main>
         <FooterComponent className="sticky bottom-0" />
       </div>
